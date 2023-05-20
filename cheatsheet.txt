@@ -1,0 +1,23 @@
+Comandos más utilizados:
+
+    Comandos paso a paso para crear un repositorio LOCAL:
+1. git init: crea el repositorio
+2. git config user.name "nombre_de_usuario": Agrega el nombre de usuario 
+3. git config user.email "mail_del_usuario": Agrega el email del usuario
+4.git remote add origin "link del repositorio remoto": Vincula el repositorio local con el repositorio remoto
+
+    Comandos para subir cambios del repositorio LOCAL al repositorio remoto
+1. git add .: agrega todos los archivos
+2. git commit -m "mensaje": Commitea los cambios hechos hasta ahora 
+3. git push origin main: sube los cambios al repositorio remoto
+
+    Comandos vinculadas a las ramas: 
+1. git branch: muestra las ramas del repositorio
+2. git branch "branch": crea una nueva rama llamada branch
+3. git branch -d "branch": elimna la rama branch 
+4. git branch -D "branch": elimina la rama branch aunque tenga cambios sin fusionar.
+5. git checkout nombre_rama: para moverse de una rama a otra
+6. git push origin brunch: sube los cambios al repositorio remoto
+
+
+
