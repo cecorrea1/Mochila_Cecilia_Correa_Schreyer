@@ -1,0 +1,13 @@
+#Direcciones de mi MV
+
+
+direccion MAC: HWaddr 08:00:27:28:d9:76  
+
+IPS:
+
+inet addr:10.0.2.15  inet addr:127.0.0.1
+ 
+
+
+
+
